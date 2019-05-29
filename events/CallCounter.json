@@ -1,0 +1,1 @@
+{"name":"CallCounter","deploy":{"args":[]},"messages":[{"name":"inc","selector":257544423,"mutates":true,"args":[],"return_type":null},{"name":"dec","selector":1772705147,"mutates":true,"args":[],"return_type":null}]}
