@@ -1,0 +1,1 @@
+Uses https://github.com/paritytech/ink/commit/b6ab9b3c3f956a052d2a3059046403d1f6dcabd6
