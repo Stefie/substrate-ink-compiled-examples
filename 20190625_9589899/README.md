@@ -1,4 +1,4 @@
-### Uses https://github.com/paritytech/ink/commit/9589899b5630c42870de24b0fdb9e67587531f70
+**Uses https://github.com/paritytech/ink/commit/9589899b5630c42870de24b0fdb9e67587531f70**
 
 ### Major Change
 The major change that required a new folder with compiled contract files was the switch of using scratch buffer instead of input buffer.
